@@ -15,7 +15,7 @@ input_ID.addEventListener("click", () => {
 })
 
 
-
+//
 // const click = document.querySelector(".click");
 // const block = document.querySelector(".block");
 // const wrapper = document.querySelector(".wrapper")
@@ -33,7 +33,7 @@ input_ID.addEventListener("click", () => {
 // };
 //
 // click.addEventListener("click", count)
-
+//
 
 
 
